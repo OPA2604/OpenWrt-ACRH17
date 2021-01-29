@@ -28,6 +28,7 @@ env:
   CONFIG_FILE: config/acrh17/acrh17.config
   DIY_P1_SH: config/acrh17/diy-part1.sh
   DIY_P2_SH: config/acrh17/diy-part2.sh
+  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: true
